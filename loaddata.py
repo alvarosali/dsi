@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 18 17:14:12 2016
-"""
+
 import csv, pydot
 from sklearn.mixture import GaussianMixture
 from sklearn import metrics, preprocessing, tree
